@@ -24,9 +24,8 @@ description: Project website for the Exascale Code Generation Toolkit team
 # List of links in the navigation bar
 navbar-links:
   Resources:
-    - Resource 1: ""
-    - Resource 2: ""
-    - Resource 3: ""
+    - Google Drive Folder: "https://drive.google.com/drive/folders/0B12LnK6dzR6FYmdMRzZhOUR4NEk"
+    - ECP Poster v3: "https://exascale-code-generation-toolkit.github.io/website/2017-01-27-ecp-poster-v3/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
